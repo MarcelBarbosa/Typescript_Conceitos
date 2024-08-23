@@ -9,5 +9,3 @@ Criação de uma interface simples para cadastro de Negócios com data e valores
     * Interface
     * Enums
 * Arquitetura MVC
-
-## Visualização:
